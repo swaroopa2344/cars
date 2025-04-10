@@ -167,7 +167,7 @@
       "mileage": 12000,
       "transmission": "Automatic",
       "color": "Gray",
-      "image": "https://tse4.mm.bing.net/th?id=OIP.BpouRrRW9nPLOF5PcYq3QAHaDd&pid=Api&P=0&h=180"
+      "image": ""
     {
       "id": 14,
       "brand": "Nissan",
@@ -179,7 +179,7 @@
       "mileage": 8000,
       "transmission": "CVT",
       "color": "Red",
-      "image": "https://tse1.mm.bing.net/th?id=OIP.7dgz97lbEYN1yik2tCEFBAHaFj&pid=Api&P=0&h=180"
+      "image": ""
     },
     {
       "id": 15,
@@ -192,7 +192,7 @@
       "mileage": 10000,
       "transmission": "Automatic",
       "color": "Black",
-      "image": "https://tse3.mm.bing.net/th?id=OIP.81__dm5qt7a42-Q41P0-rwHaFj&pid=Api&P=0&h=180"
+      "image": ""
     }
   ]
 }
