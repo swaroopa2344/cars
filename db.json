@@ -11,7 +11,8 @@
       "mileage": 15000,
       "transmission": "Automatic",
       "color": "Silver",
-      "image": ""
+      "image": "https://via.placeholder.com/300x200?text=Toyota+Corolla"
+    
     },
     {
       "id": 2,
@@ -24,7 +25,7 @@
       "mileage": 20000,
       "transmission": "CVT",
       "color": "White",
-      "image": ""
+      "image": "https://via.placeholder.com/300x200?text=Honda+Civic"
     },
     {
       "id": 3,
@@ -37,7 +38,7 @@
       "mileage": 5000,
       "transmission": "Automatic",
       "color": "Red",
-      "image": ""
+      "image": "ttps://via.placeholder.com/300x200?text=Tesla+Model+3"
     },
     {
       "id": 4,
@@ -50,7 +51,7 @@
       "mileage": 8000,
       "transmission": "Manual",
       "color": "Blue",
-      "image": ""
+      "image": "https://www.ford.com/cmslibs/content/dam/vdm_ford/live/en_us/ford/nameplate/mustang/2022/collections/3-2/22_FRD_MST_21288.jpg"
     },
     {
       "id": 5,
@@ -63,7 +64,7 @@
       "mileage": 18000,
       "transmission": "Automatic",
       "color": "Black",
-      "image": ""
+      "image": "https://www.toyota.com/imgix/responsive/images/mlp/colorizer/2023/rav4/1H5/1.png"
     },
     {
       "id": 6,
@@ -76,7 +77,7 @@
       "mileage": 3000,
       "transmission": "Automatic",
       "color": "Gray",
-      "image": ""
+      "image": "https://www.bmwusa.com/content/dam/bmwusa/X-Models/X5/2023/Highlights/bmw-x5-m50i-highlights-desktop.jpg"
     },
     {
       "id": 7,
@@ -89,7 +90,7 @@
       "mileage": 12000,
       "transmission": "Automatic",
       "color": "Green",
-      "image": ""
+      "image": "https://www.hyundai.com/content/hyundai/ww/data/news/data/2021/0000016605/image/newsroom-0112-ph01-1024max.jpg"
     },
     {
       "id": 8,
@@ -102,7 +103,7 @@
       "mileage": 2500,
       "transmission": "Automatic",
       "color": "Silver",
-      "image": ""
+      "image": "https://www.mbusa.com/content/dam/mb-nafta/us/myco/my23/c-class/sedan/overview/MY23-C-CLASS-SEDAN-HERO-DR.jpg"
     },
     {
       "id": 9,
@@ -115,7 +116,7 @@
       "mileage": 10000,
       "transmission": "Automatic",
       "color": "Black",
-      "image": ""
+      "image": "https://www.audi.com/content/dam/gbp2/models/q5/q5/sq5-tdi/1920x1080/1920x1080-ar-1-1/1920x1080_ar-1-1_audi-sq5-tdi.jpg"
     },
     {
       "id": 10,
@@ -128,7 +129,7 @@
       "mileage": 22000,
       "transmission": "Manual",
       "color": "White",
-      "image": ""
+      "image": "https://www.vw.com/content/dam/vwcom/models/golf-gti/2021/overview/2021-golf-gti-overview-highlights-01-desktop.jpg"
     },
     {
       "id": 11,
@@ -141,7 +142,7 @@
       "mileage": 15000,
       "transmission": "CVT",
       "color": "Blue",
-      "image": ""
+      "image": "https://www.subaru.com/content/dam/subaru/vehicle-landing-pages/outback/2023/overview/hero/outback-hero-desktop.jpg"
     },
     {
       "id": 12,
@@ -154,7 +155,7 @@
       "mileage": 5000,
       "transmission": "Manual",
       "color": "Yellow",
-      "image": ""
+      "image": "https://www.jeep.com/content/dam/jeep/us/en/2023/wrangler/gallery/exterior/desktop/2023-jeep-wrangler-gallery-exterior-01-desktop.jpg"
     },
     {
       "id": 13,
@@ -167,7 +168,8 @@
       "mileage": 12000,
       "transmission": "Automatic",
       "color": "Gray",
-      "image": ""
+      "image": "https://www.kia.com/content/dam/kia/us/en/vehicles/sorento/2023/gallery/exterior/01-images/2023-sorento-gallery-exterior-01.jpg"
+    },
     {
       "id": 14,
       "brand": "Nissan",
@@ -179,7 +181,7 @@
       "mileage": 8000,
       "transmission": "CVT",
       "color": "Red",
-      "image": ""
+      "image": "https://www.nissanusa.com/content/dam/nissan/us/vehicles/rogue/2023/overview/2023-nissan-rogue-overview-hero-desktop.jpg"
     },
     {
       "id": 15,
@@ -192,7 +194,7 @@
       "mileage": 10000,
       "transmission": "Automatic",
       "color": "Black",
-      "image": ""
+      "image": "https://www.chevrolet.com/content/dam/chevrolet/na/us/english/index/vehicles/2022/tahoe/01-images/2022-tahoe-mmp.jpg"
     }
   ]
 }
